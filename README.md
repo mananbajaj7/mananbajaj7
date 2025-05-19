@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Manan Bajaj
 
 🎓 **NYU Graduate** – Double Major in Economics & Data Science GPA: 3.83
+
 🔎 Data Analyst • Python • SQL • Power BI • Machine Learning • Excel  
 📍 Based in NYC | Open to full-time roles in Data Analytics, Strategy, and Economic Consulting
 
