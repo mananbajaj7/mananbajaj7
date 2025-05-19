@@ -37,4 +37,5 @@ Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learni
 
 📧 [mb8123@nyu.edu](mailto:mb8123@nyu.edu)
 💼 [LinkedIn](https://linkedin.com/in/mananbajaj7)
-🔗 [Resume (PDF)](https://github.com/mananbajaj7/mananbajaj7/Manan_Bajaj_resume .pdf)
+🔗[Resume (PDF)](https://github.com/mananbajaj7/mananbajaj7/blob/main/Manan_Bajaj_Resume.pdf)
+
