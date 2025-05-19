@@ -18,8 +18,8 @@ Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learni
 
 ## 📈 Projects
 
-- ** [Media Music SQL Project](https://github.com/mananbajaj7/SQL-Music-DB/tree/main )
-  This end-to-end SQL project transforms a raw music dataset into a fully normalized, query-optimized SQLite database. It includes schema design, ETL, cleaning, and validation.
+- **[Media Music SQL Project](https://github.com/mananbajaj7/SQL-Music-DB/tree/main )**
+  This end-to-end SQL project transforms a raw music dataset into a fully normalized, query-optimized SQLite database. It includes schema design, ETL, cleaning, validation, and advanced SQL queries.
 
 - **[Revenue Loss Analysis – Clipboard Health](https://github.com/mananbajaj7/Revenue-Loss-Analysis-Healthcare)**  
   Analyzed 100,000+ shift records using Python and Excel to uncover $697K in lost revenue from unclaimed shifts; proposed strategies to reduce unclaimed hours by 30%.
