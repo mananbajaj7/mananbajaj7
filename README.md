@@ -16,22 +16,23 @@ Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learni
 
 ---
 
-## 📈 Highlight Projects
+## 📈 Projects
 
-* **[Revenue Loss Analysis – Clipboard Health](https://github.com/mananbajaj7/Revenue-Loss-Analysis-Healthcare)**
-  Identified \$697K in potential revenue loss from unclaimed shifts using Python + Excel.
+- **[Revenue Loss Analysis – Clipboard Health](https://github.com/mananbajaj7/Revenue-Loss-Analysis-Healthcare)**  
+  Analyzed 100,000+ shift records using Python and Excel to uncover $697K in lost revenue from unclaimed shifts; proposed strategies to reduce unclaimed hours by 30%.
 
-* **[Retail Labor Market Trends](https://github.com/mananbajaj7/Retail-Labor-Market-Analysis)**
-  Analyzed >2.5M retail job records to discover shifts in labor market demand.
+- **[Retail Labor Market Trends](https://github.com/mananbajaj7/Retail-Labor-Market-Analysis)**  
+  Processed 2.5M+ retail job records across 5 datasets to reveal declining job postings, longer fill times, and record-low worker sentiment in 2024.
 
-* **[Data Professionals Survey (Power BI)](https://github.com/mananbajaj7/Data-Professionals-Survey-Analysis)**
-  Built dashboard exploring salary, education & work-life balance of data professionals.
+- **[Data Professionals Survey (Power BI)](https://github.com/mananbajaj7/Data-Professionals-Survey-Analysis)**  
+  Built an interactive Power BI dashboard analyzing salary, education, and work-life balance across Data Analysts, Scientists, Engineers, and Students.
 
-* **[NBA Game Prediction (LSTM + RoBERTa)](https://github.com/unfiltered-syrup/NBA_Analysis)**
-  Combined deep learning and sentiment analysis to predict NBA outcomes.
+- **[NBA Game Prediction (LSTM + RoBERTa)](https://github.com/unfiltered-syrup/NBA_Analysis)**  
+  Combined LSTM models and RoBERTa-based Twitter sentiment analysis to enhance NBA game outcome predictions.
 
-* **[Music Genre Classification](https://github.com/mananbajaj7/Music_Genre_Classification)**
-  Used XGBoost + PCA to predict music genres from track features.
+- **[Music Genre Classification](https://github.com/mananbajaj7/Music_Genre_Classification)**  
+  Classified 50,000+ Spotify tracks by genre using XGBoost with PCA-based feature reduction; best model achieved AUC of 0.933.
+
 
 ---
 
