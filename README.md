@@ -10,9 +10,9 @@
 
 ## 🛠️ Skills
 
-Languages & Tools: Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Scikit-learn • Jupyter • Git • R • Matplotlib • Seaborn • Power Query • Visual Studio Code • Google Sheets • VS Code • Postgres • SQLite • MongoDB • AutoML • RoBERTa • XGBoost
+Languages & Tools: Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Scikit-learn • Jupyter • Git • R • Matplotlib • Seaborn • Power Query • Visual Studio Code • Google Sheets • VS Code • Postgres • SQLite • MongoDB • Tensorflow • Plotly 
 
-Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learning • Deep Learning • Time Series Forecasting • Predictive Modeling • Statistical Analysis • Data Visualization • Dashboard Development • Dimensionality Reduction (PCA) • Hyperparameter Tuning • Sentiment Analysis • Classification & Regression • Data Wrangling • Relational Databases • DAX & M (Power BI) • Report Automation • A/B Testing • Business Intelligence • KPI Reporting • SQL Joins, CTEs, Window Functions
+Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learning • Deep Learning • Time Series Forecasting • Predictive Modeling • Statistical Analysis • Data Visualization • Dashboard Development • Dimensionality Reduction (PCA) • Hyperparameter Tuning • Sentiment Analysis • Classification & Regression • Data Wrangling • Relational Databases • DAX & M (Power BI) • Report Automation • Business Intelligence • SQL Joins, CTEs, Window Functions
 
 ---
 
