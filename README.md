@@ -36,6 +36,8 @@ Techniques: Data Cleaning • Exploratory Data Analysis (EDA) • Machine Learni
 - **[Music Genre Classification](https://github.com/mananbajaj7/Music_Genre_Classification)**  
   Classified 50,000+ Spotify tracks by genre using XGBoost with PCA-based feature reduction; best model achieved AUC of 0.933.
 
+- **[Sales Data Warehouse Analytics](https://github.com/mananbajaj7/Sales_Data_Warehouse_Analytics)**  
+  Built a sales reporting system using dimensional modeling (fact/dimension tables). Segmented customers by behavior and products by revenue performance using SQL.
 
 ---
 
